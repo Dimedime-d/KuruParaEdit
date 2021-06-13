@@ -151,7 +151,7 @@ public class KPCompressionWiz{
     
     private static void compressABinary() throws IOException
     {
-        JFileChooser fc = new JFileChooser("C:\\Users\\Chris\\Downloads\\Let's Debug Kururin Paradise Again\\Text Resources\\Graphical Text\\Minigame Splashes");
+        JFileChooser fc = new JFileChooser("");
         fc.setDialogTitle("Pick a binary!?");
         fc.setFileFilter(new FileFilter() { //Save Dialog shows ONLY bin files
             

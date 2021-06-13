@@ -81,7 +81,7 @@ public class IOHControlPanel extends JPanel
     
     private File pickFile()
     {
-        JFileChooser fc = new JFileChooser("C:\\Users\\Chris\\Downloads\\Let's Debug Kururin Paradise Again\\Text Resources"); //Choose file
+        JFileChooser fc = new JFileChooser(); //Choose file
             fc.setDialogTitle("Pick image file");
             fc.setFileFilter(new FileFilter() 
                     { //Save Dialog shows ONLY excel files
