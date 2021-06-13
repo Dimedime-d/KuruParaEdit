@@ -1,0 +1,5 @@
+for the time being, 
+1 = jap cutscene text
+2 = jap magic text
+3 = chn cutscene text
+4 = chn magic text
