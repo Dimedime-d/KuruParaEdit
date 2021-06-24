@@ -1,4 +1,4 @@
-//Christopher Ung
+
 //3/24/18
 //JDK Version 1.8.0
 //Goal: Given an 8-bit integer value, read corr. values in Kururin Paradise ROM
@@ -77,7 +77,6 @@ public class KPDataManipulator{
     
     public static void main(String[] args) throws FileNotFoundException, IOException {
         new KPDataManipulator();
-        //frame.decompress();
     }
     
     public void createRomAccess() {
